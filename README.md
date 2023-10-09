@@ -19,7 +19,7 @@ Daily open, high, low, close, volumne for AMZN over 3 years.  Sourced from https
 
 OHLC chart for AMZN over 3 years with subplot of RSI indicator.
 
-https://gmhfx.github.io/MortgageRatesTreasury/
+https://gmhfx.github.io/Daily_RSI_Chart/
 
 ### Contact
 
